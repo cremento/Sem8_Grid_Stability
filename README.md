@@ -1,5 +1,6 @@
 # Sem8_Grid_Stability
-Steps to run on colab
+Steps to run our web app on colab 
+0. First clone the repo using ! git clone https://github.com/cremento/Sem8_Grid_Stability.git
 1. ! pip3 install -r /content/grid_stability_app/requirements.txt
 2. ! pip install -q streamlit
 3. ! npm install localtunnel
